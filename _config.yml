@@ -99,7 +99,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/hatsune.png"
+avatar: "https://raw.githubusercontent.com/burakacar6/jubilant-waddle/refs/heads/main/assets/img/hatsune.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
