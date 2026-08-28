@@ -1,5 +1,5 @@
 ---
-title: Fools Mate
+title: Fools Mate Writeup
 description: >-
   Can you bypass the engine?
 author: ruh hastasi
