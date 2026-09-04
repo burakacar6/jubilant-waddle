@@ -14,12 +14,12 @@ timezone: Europe/Istanbul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ruh hastasi # the main title
+title: Burak Acar Günlük # the main title
 
-tagline: subtitle bulamadım # it will display as the subtitle
+tagline: Bipoların Günlüğü... # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  açıklamada bulamadım
+  Hayır, gerçek adım Burak Acar değil.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -31,14 +31,14 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: ruh hastasi A.Ş.
+  name: Burak Acar
   email: burakacar@tutamail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/burakacar6 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://t.me/ruhhastasi_dairy
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings

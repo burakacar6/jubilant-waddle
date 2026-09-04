@@ -2,7 +2,7 @@
 title: Fools Mate Writeup
 description: >-
   Can you bypass the engine?
-author: ruh hastasi
+author: Burak
 date: 2026-08-25 00:56:00 +0800
 categories: [CTF, Tryhackme, Easy]
 tags: [CTF]

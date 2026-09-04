@@ -2,7 +2,7 @@
 title: Ultra Tech Writeup
 description: >-
   The basics of Penetration Testing, Enumeration, Privilege Escalation and WebApp testing
-author: ruh hastasi
+author: Burak
 date: 2026-08-28 23:40:00 +0800
 categories: [CTF, Tryhackme, Medium]
 tags: [CTF]
